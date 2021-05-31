@@ -4,7 +4,7 @@ A fully customizable terminal-like-website
 
 ## Preview
 
-You can preview a live demo [here](https://chispashk.github.io/index.html) with a raw FTW template or [my personal website](https://chispashk.github.io/index.html) that also uses this template.
+You can preview a live demo [here](https://chispashk.github.io/fake-terminal-website/index.html) with a raw FTW template or [my personal website](https://chispashk.github.io/fake-terminal-website/index.html) that also uses this template.
 
 ### Desktop
 
